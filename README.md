@@ -1,4 +1,4 @@
-# CS401-Hw01
+#CS401-Hw01
 Introduction
 For this project, I created and developed a basic inventory management system of a sporting goods store. The system has been divided into two general groupings that include Indoor Sports and Outdoor Sports. Indoor sports category includes volleyballs and table tennis paddles whereas the outdoor sport category includes tents and soccer balls.
 Before coding, I determined the relationship among the key classes, their attributes and the relationships and the key classes of the system.
